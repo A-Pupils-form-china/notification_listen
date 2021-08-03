@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">通知发送</string>
+    <string name="stop">未运行</string>
+    <string name="tips">输入主机ip地址</string>
+    <string name="btn1">开启服务</string>
+    <string name="start">服务运行中</string>
+    <string name="btn2">修改ip地址</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">notification_listen</string>
+    <string name="stop">waiting</string>
+    <string name="tips">enter host ip address</string>
+    <string name="btn1">startService</string>
+    <string name="start">running</string>
+    <string name="btn2">change ip address</string>
+</resources>
